@@ -6,10 +6,12 @@
 
 ちょうど行われている知見交換を、このレポジトリの GitHub issues を使って行ってみます。
 
-@hfu は国連ベクトルタイルツールキットのリードです。
+@hfu は[国連ベクトルタイルツールキット](https://github.com/un-vector-tile-toolkit)のリードです。
 
 ## 使い方
-[Issues](https://github.com/hfu/tomogala/issues) に行って適宜ご利用ください。@hfu からは個別 issue への直接リンクで案内する場合が多いかもしれません
+[Issues](https://github.com/hfu/tomogala/issues) に行って適宜ご利用ください。@hfu からは個別 issue への直接リンクで案内する場合が多いかもしれません。
+
+このレポジトリでは日本語を使います。他のレポジトリではそうではないかもしれません。
 
 ### Issues の操作方針
 これまで issues を Q&A 置き場として運用してきたときの慣習と異なり、issue のクローズは「回答が行われたら機械的にクローズ」という基準で行うことにします。このため、次のような留意が必要かもしれません。
